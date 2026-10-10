@@ -267,22 +267,35 @@ An academic surveillance project designed to detect potential threats in cattle 
 ## `$ github-trophies` — Developer Milestones
 
 <div align="center">
-  <a href="https://github.com/nikzeeiiy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nikzeeiiy&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8" alt="GitHub profile trophies">
-  </a>
-</div>
 
----
+<img src="https://img.shields.io/badge/BUILD-LEARN-SHIP-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Build Learn Ship">
+
+<br><br>
+
+<a href="https://github.com/nikzeeiiy?tab=repositories"><img src="https://img.shields.io/badge/01-PROJECTS-6366F1?style=for-the-badge&labelColor=0D1117" alt="Explore projects"></a>
+<a href="https://github.com/nikzeeiiy?tab=stars"><img src="https://img.shields.io/badge/02-OPEN_SOURCE-A78BFA?style=for-the-badge&labelColor=0D1117" alt="Open source"></a>
+<a href="https://github.com/nikzeeiiy"><img src="https://img.shields.io/badge/03-CONTINUOUS_GROWTH-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Continuous growth"></a>
+
+<br><br>
+
+<sub>NEON INTERFACE · ENGINEERING IN PROGRESS · ALWAYS BUILDING</sub>
+
+</div>
 
 ## `$ contribution-activity` — Contribution Activity
 
 <div align="center">
-  <a href="https://github.com/nikzeeiiy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikzeeiiy&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph">
-  </a>
-</div>
 
----
+<a href="https://github.com/nikzeeiiy">
+  <img src="https://ghchart.rshah.org/8B5CF6/nikzeeiiy" alt="Nikhil's GitHub contribution graph" width="100%">
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-7C3AED?style=flat-square&labelColor=0D1117" alt="Actively building">
+<img src="https://img.shields.io/badge/MODE-CONTINUOUS_IMPROVEMENT-6366F1?style=flat-square&labelColor=0D1117" alt="Continuous improvement">
+
+</div>
 
 ## `$ contribution-snake` — Contribution Snake
 
@@ -321,12 +334,12 @@ exploring:
   - "Deployment and application reliability"
   - "Data analysis with Excel and SQL"
 
-open_to:
-  - "Graduate Software Developer roles"
-  - "Junior Full Stack Developer roles"
-  - "Software Engineer Trainee opportunities"
-  - "QA and Software Testing roles"
-  - "Collaborative software projects"
+current_focus:
+  - "Full-stack development at Microtech Software Solutions"
+  - "React and TypeScript frontend engineering"
+  - "Node.js backend development and MSSQL integration"
+  - "Application hosting and deployment with Plesk"
+  - "Maintainable code, testing, and production reliability"
 ```
 
 ---
