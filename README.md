@@ -53,6 +53,8 @@ My project experience includes building web applications with React.js, Node.js,
 </p>
 
 ![SQL](https://img.shields.io/badge/SQL-4F46E5?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6%2B-6366F1?style=flat-square&logo=javascript&logoColor=white)
 
 ### Frontend
@@ -91,6 +93,8 @@ My project experience includes building web applications with React.js, Node.js,
 </p>
 
 ![Railway](https://img.shields.io/badge/Railway-312E81?style=flat-square&logo=railway&logoColor=white)
+![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-Development_Tool-6D28D9?style=flat-square)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-166534?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile_Methodology-4F46E5?style=flat-square)
 ![SDLC](https://img.shields.io/badge/SDLC-6366F1?style=flat-square)
@@ -198,6 +202,19 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 ## `$ experience` — Professional Experience
 
+### Full Stack Developer
+
+**Microtech Software Solutions** · Pathanamthitta, Kerala  
+*Present*
+
+- Develop and maintain full-stack web application features using React and TypeScript.
+- Build and integrate backend functionality with Node.js and Microsoft SQL Server (MSSQL).
+- Work with application hosting and deployment workflows using Plesk.
+- Use Antigravity as part of the development workflow.
+- Collaborate on feature implementation, debugging, and ongoing application improvements.
+
+**Tech stack:** `React` `Node.js` `TypeScript` `MSSQL` `Antigravity` `Plesk`
+
 ### Web Development Intern
 
 **NextGenPro** · Kochi  
@@ -251,7 +268,7 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 <div align="center">
   <a href="https://github.com/nikzeeiiy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nikzeeiiy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=nikzeeiiy&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8" alt="GitHub profile trophies">
   </a>
 </div>
 
@@ -261,7 +278,7 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 <div align="center">
   <a href="https://github.com/nikzeeiiy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikzeeiiy&bg_color=0D1117&color=A78BFA&line=6366F1&point=C4B5FD&area=true&hide_border=true" alt="GitHub contribution activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikzeeiiy&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph">
   </a>
 </div>
 
