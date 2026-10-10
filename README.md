@@ -40,7 +40,7 @@ My project experience includes building web applications with React.js, Node.js,
 - **Data & Analytics:** SQL, Microsoft Excel, data cleaning, PivotTables, charts, and lookup functions.
 - **Engineering Mindset:** Problem solving, collaboration, continuous learning, and AI-assisted development.
 
-**Open to:** Graduate Software Developer · Junior Full Stack Developer · Software Engineer Trainee · QA / Software Testing · Applied AI Projects
+**Currently:** Full Stack Developer at Microtech Software Solutions, working with React, Node.js, TypeScript, MSSQL, Antigravity, and Plesk.
 
 ---
 
@@ -270,25 +270,29 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 <a href="https://github.com/nikzeeiiy?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-6366F1?style=for-the-badge&labelColor=0D1117" alt="Explore projects"></a>
 <a href="https://github.com/nikzeeiiy?tab=stars"><img src="https://img.shields.io/badge/STARS-Discover-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Discover starred projects"></a>
-<a href="https://github.com/nikzeeiiy"><img src="https://img.shields.io/badge/PROFILE-Connect-A78BFA?style=for-the-badge&labelColor=0D1117" alt="View profile"></a>
+<a href="https://github.com/nikzeeiiy"><img src="https://img.shields.io/badge/PROFILE-Connect-A78BFA?style=for-the-badge&labelColor=0D1117" alt="View GitHub profile"></a>
 
 <br><br>
-<sub>NEON INTERFACE · ENGINEERING IN PROGRESS · ALWAYS BUILDING</sub>
+<sub>BUILD · LEARN · SHIP · IMPROVE</sub>
+
 </div>
 
-## `$ contribution-activity` — Live Contribution Matrix
+## `$ contribution-activity` — Contribution Signal
 
 <div align="center">
 
 <a href="https://github.com/nikzeeiiy">
-  <img src="https://ghchart.rshah.org/8B5CF6/nikzeeiiy" alt="GitHub contribution matrix for nikzeeiiy" width="100%">
+  <img src="https://ghchart.rshah.org/8B5CF6/nikzeeiiy" alt="GitHub contribution calendar" width="100%">
 </a>
 
 <br><br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=600&lines=COMMIT+%E2%86%92+BUILD+%E2%86%92+IMPROVE;CONSISTENCY+OVER+PERFECTION;ENGINEERING+IN+MOTION" alt="Animated developer mantra">
-<br>
-<a href="https://github.com/nikzeeiiy"><img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-7C3AED?style=flat-square&labelColor=0D1117" alt="Actively building"></a>
-<a href="https://github.com/nikzeeiiy?tab=repositories"><img src="https://img.shields.io/badge/FOCUS-CODE_AND_SHIP-6366F1?style=flat-square&labelColor=0D1117" alt="Code and ship"></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=CONSISTENCY+BUILDS+MOMENTUM;SMALL+COMMITS.+REAL+PROGRESS.;DESIGN+%E2%86%92+BUILD+%E2%86%92+REFINE" alt="Animated contribution message">
+
+<br><br>
+
+<a href="https://github.com/nikzeeiiy"><img src="https://img.shields.io/badge/PROFILE-ACTIVE-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Profile active"></a>
+<a href="https://github.com/nikzeeiiy?tab=repositories"><img src="https://img.shields.io/badge/WORK-EXPLORE_PROJECTS-6366F1?style=for-the-badge&labelColor=0D1117" alt="Explore projects"></a>
 
 </div>
 
@@ -300,47 +304,43 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 ---
 
-## ⚡ Developer HUD
+## `$ current-focus` — Developer HUD
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;REACT+%2B+TYPESCRIPT;NODE.JS+%2B+MSSQL;BUILDING+%7C+TESTING+%7C+SHIPPING" alt="Animated developer focus">
-
-</div>
-
-### 🟣 CURRENT STATUS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ROLE-FULL_STACK_DEVELOPER-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Full Stack Developer">
-<img src="https://img.shields.io/badge/COMPANY-MICROTECH_SOFTWARE_SOLUTIONS-6366F1?style=for-the-badge&labelColor=0D1117" alt="Microtech Software Solutions">
-
-</div>
-
-### 🧰 TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mysql&theme=dark" alt="React, TypeScript, Node.js, Express and database technologies">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=750&color=A78BFA&center=true&vCenter=true&width=650&lines=FULL+STACK+DEVELOPER;REACT+%2B+TYPESCRIPT;NODE.JS+%2B+MSSQL;BUILDING+RELIABLE+WEB+APPLICATIONS" alt="Animated developer focus">
 
 <br>
 
-<img src="https://img.shields.io/badge/MSSQL-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL">
-<img src="https://img.shields.io/badge/Plesk-Deployment-52BBE6?style=flat-square&logo=plesk&logoColor=white" alt="Plesk">
-<img src="https://img.shields.io/badge/Antigravity-Dev_Tool-8B5CF6?style=flat-square" alt="Antigravity">
+<img src="https://img.shields.io/badge/ROLE-FULL_STACK_DEVELOPER-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Full Stack Developer">
+<img src="https://img.shields.io/badge/TEAM-MICROTECH_SOFTWARE_SOLUTIONS-4F46E5?style=for-the-badge&labelColor=0D1117" alt="Microtech Software Solutions">
 
 </div>
 
-### 🎯 ENGINEERING FOCUS
+### ◈ Core Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express&theme=dark" alt="React, TypeScript, Node.js, Express">
+
+<br>
+
+<img src="https://img.shields.io/badge/MSSQL-DATABASE-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
+<img src="https://img.shields.io/badge/PLESK-DEPLOYMENT-52BBE6?style=flat-square&logo=plesk&logoColor=white" alt="Plesk">
+<img src="https://img.shields.io/badge/ANTIGRAVITY-DEV_TOOL-8B5CF6?style=flat-square" alt="Antigravity">
+
+</div>
+
+### ◈ Engineering Focus
 
 <table>
-<tr><td>◈</td><td><b>Frontend</b></td><td>React, TypeScript, reusable components</td></tr>
-<tr><td>◈</td><td><b>Backend</b></td><td>Node.js, Express, REST APIs</td></tr>
-<tr><td>◈</td><td><b>Database</b></td><td>Microsoft SQL Server (MSSQL)</td></tr>
-<tr><td>◈</td><td><b>Deployment</b></td><td>Plesk, hosting, application reliability</td></tr>
+  <tr><td width="32"><img src="https://img.shields.io/badge/01-7C3AED?style=flat-square" alt="01"></td><td><b>Frontend Engineering</b><br><sub>React, TypeScript, reusable UI components</sub></td></tr>
+  <tr><td><img src="https://img.shields.io/badge/02-6366F1?style=flat-square" alt="02"></td><td><b>Backend & API Integration</b><br><sub>Node.js, Express, REST APIs</sub></td></tr>
+  <tr><td><img src="https://img.shields.io/badge/03-8B5CF6?style=flat-square" alt="03"></td><td><b>Data Layer</b><br><sub>Microsoft SQL Server (MSSQL)</sub></td></tr>
+  <tr><td><img src="https://img.shields.io/badge/04-A78BFA?style=flat-square" alt="04"></td><td><b>Delivery & Reliability</b><br><sub>Plesk hosting, debugging, maintainability</sub></td></tr>
 </table>
 
-### 🔄 BUILD PIPELINE
+### ◈ Build Pipeline
 
 <div align="center">
 
@@ -350,6 +350,7 @@ An academic surveillance project designed to detect potential threats in cattle 
 <img src="https://img.shields.io/badge/04-SHIP-A78BFA?style=for-the-badge&labelColor=0D1117" alt="Ship">
 
 </div>
+
 ## `$ connect` — Let's Build Something Useful
 
 <div align="center">
