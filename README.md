@@ -268,32 +268,27 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BUILD-LEARN-SHIP-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Build Learn Ship">
+<a href="https://github.com/nikzeeiiy?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-6366F1?style=for-the-badge&labelColor=0D1117" alt="Explore projects"></a>
+<a href="https://github.com/nikzeeiiy?tab=stars"><img src="https://img.shields.io/badge/STARS-Discover-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Discover starred projects"></a>
+<a href="https://github.com/nikzeeiiy"><img src="https://img.shields.io/badge/PROFILE-Connect-A78BFA?style=for-the-badge&labelColor=0D1117" alt="View profile"></a>
 
 <br><br>
-
-<a href="https://github.com/nikzeeiiy?tab=repositories"><img src="https://img.shields.io/badge/01-PROJECTS-6366F1?style=for-the-badge&labelColor=0D1117" alt="Explore projects"></a>
-<a href="https://github.com/nikzeeiiy?tab=stars"><img src="https://img.shields.io/badge/02-OPEN_SOURCE-A78BFA?style=for-the-badge&labelColor=0D1117" alt="Open source"></a>
-<a href="https://github.com/nikzeeiiy"><img src="https://img.shields.io/badge/03-CONTINUOUS_GROWTH-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Continuous growth"></a>
-
-<br><br>
-
 <sub>NEON INTERFACE · ENGINEERING IN PROGRESS · ALWAYS BUILDING</sub>
-
 </div>
 
-## `$ contribution-activity` — Contribution Activity
+## `$ contribution-activity` — Live Contribution Matrix
 
 <div align="center">
 
 <a href="https://github.com/nikzeeiiy">
-  <img src="https://ghchart.rshah.org/8B5CF6/nikzeeiiy" alt="Nikhil's GitHub contribution graph" width="100%">
+  <img src="https://ghchart.rshah.org/8B5CF6/nikzeeiiy" alt="GitHub contribution matrix for nikzeeiiy" width="100%">
 </a>
 
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=600&lines=COMMIT+%E2%86%92+BUILD+%E2%86%92+IMPROVE;CONSISTENCY+OVER+PERFECTION;ENGINEERING+IN+MOTION" alt="Animated developer mantra">
 <br>
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-7C3AED?style=flat-square&labelColor=0D1117" alt="Actively building">
-<img src="https://img.shields.io/badge/MODE-CONTINUOUS_IMPROVEMENT-6366F1?style=flat-square&labelColor=0D1117" alt="Continuous improvement">
+<a href="https://github.com/nikzeeiiy"><img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-7C3AED?style=flat-square&labelColor=0D1117" alt="Actively building"></a>
+<a href="https://github.com/nikzeeiiy?tab=repositories"><img src="https://img.shields.io/badge/FOCUS-CODE_AND_SHIP-6366F1?style=flat-square&labelColor=0D1117" alt="Code and ship"></a>
 
 </div>
 
@@ -305,44 +300,54 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 ---
 
-## `$ current-focus` — Engineering Roadmap
+## `$ current-focus` — Developer HUD
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=FULL+STACK+DEVELOPER;REACT+%2B+TYPESCRIPT;NODE.JS+%2B+MSSQL;BUILDING+RELIABLE+WEB+APPLICATIONS" alt="Animated current focus">
+</div>
 
 ```yaml
 profile:
   name: "Nikhil P"
   username: "nikzeeiiy"
-  role: "Software Developer"
-  location: "Kerala, India"
+  role: "Full Stack Developer"
+  company: "Microtech Software Solutions"
+  location: "Pathanamthitta, Kerala, India"
 
-learning:
-  - "Advanced JavaScript and React"
-  - "Node.js and Express API development"
-  - "SQL and relational database design"
-  - "Software testing and quality assurance"
-  - "Applied AI and computer vision"
-  - "Git workflows and maintainable code"
-
-building:
-  - "JobTracker: Full-stack job application management"
-  - "ISL Interpreter: Speech and sign-language translation"
-  - "Cattleshed Surveillance: Computer vision and alerts"
-
-exploring:
-  - "Secure REST API architecture"
-  - "Automated software testing"
-  - "AI-assisted engineering workflows"
-  - "Deployment and application reliability"
-  - "Data analysis with Excel and SQL"
+core_stack:
+  frontend:
+    - "React"
+    - "TypeScript"
+  backend:
+    - "Node.js"
+    - "Express.js"
+  database:
+    - "Microsoft SQL Server (MSSQL)"
+  tools:
+    - "Antigravity"
+    - "Plesk"
 
 current_focus:
-  - "Full-stack development at Microtech Software Solutions"
-  - "React and TypeScript frontend engineering"
-  - "Node.js backend development and MSSQL integration"
-  - "Application hosting and deployment with Plesk"
-  - "Maintainable code, testing, and production reliability"
+  - "Building and improving full-stack application features"
+  - "Frontend architecture and reusable React components"
+  - "Backend API development and database integration"
+  - "Deployment, hosting, and production reliability"
+  - "Maintainable code, debugging, and software quality"
+
+engineering_loop:
+  - "Plan"
+  - "Build"
+  - "Test"
+  - "Ship"
+  - "Improve"
 ```
 
----
+<div align="center">
+<img src="https://img.shields.io/badge/01-PLAN-312E81?style=for-the-badge&labelColor=0D1117" alt="Plan">
+<img src="https://img.shields.io/badge/02-BUILD-4F46E5?style=for-the-badge&labelColor=0D1117" alt="Build">
+<img src="https://img.shields.io/badge/03-SHIP-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Ship">
+<img src="https://img.shields.io/badge/04-IMPROVE-A78BFA?style=for-the-badge&labelColor=0D1117" alt="Improve">
+</div>
 
 ## `$ connect` — Let's Build Something Useful
 
