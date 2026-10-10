@@ -300,55 +300,56 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 ---
 
-## `$ current-focus` — Developer HUD
+## ⚡ Developer HUD
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=FULL+STACK+DEVELOPER;REACT+%2B+TYPESCRIPT;NODE.JS+%2B+MSSQL;BUILDING+RELIABLE+WEB+APPLICATIONS" alt="Animated current focus">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;REACT+%2B+TYPESCRIPT;NODE.JS+%2B+MSSQL;BUILDING+%7C+TESTING+%7C+SHIPPING" alt="Animated developer focus">
+
 </div>
 
-```yaml
-profile:
-  name: "Nikhil P"
-  username: "nikzeeiiy"
-  role: "Full Stack Developer"
-  company: "Microtech Software Solutions"
-  location: "Pathanamthitta, Kerala, India"
-
-core_stack:
-  frontend:
-    - "React"
-    - "TypeScript"
-  backend:
-    - "Node.js"
-    - "Express.js"
-  database:
-    - "Microsoft SQL Server (MSSQL)"
-  tools:
-    - "Antigravity"
-    - "Plesk"
-
-current_focus:
-  - "Building and improving full-stack application features"
-  - "Frontend architecture and reusable React components"
-  - "Backend API development and database integration"
-  - "Deployment, hosting, and production reliability"
-  - "Maintainable code, debugging, and software quality"
-
-engineering_loop:
-  - "Plan"
-  - "Build"
-  - "Test"
-  - "Ship"
-  - "Improve"
-```
+### 🟣 CURRENT STATUS
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/ROLE-FULL_STACK_DEVELOPER-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Full Stack Developer">
+<img src="https://img.shields.io/badge/COMPANY-MICROTECH_SOFTWARE_SOLUTIONS-6366F1?style=for-the-badge&labelColor=0D1117" alt="Microtech Software Solutions">
+
+</div>
+
+### 🧰 TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mysql&theme=dark" alt="React, TypeScript, Node.js, Express and database technologies">
+
+<br>
+
+<img src="https://img.shields.io/badge/MSSQL-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL">
+<img src="https://img.shields.io/badge/Plesk-Deployment-52BBE6?style=flat-square&logo=plesk&logoColor=white" alt="Plesk">
+<img src="https://img.shields.io/badge/Antigravity-Dev_Tool-8B5CF6?style=flat-square" alt="Antigravity">
+
+</div>
+
+### 🎯 ENGINEERING FOCUS
+
+<table>
+<tr><td>◈</td><td><b>Frontend</b></td><td>React, TypeScript, reusable components</td></tr>
+<tr><td>◈</td><td><b>Backend</b></td><td>Node.js, Express, REST APIs</td></tr>
+<tr><td>◈</td><td><b>Database</b></td><td>Microsoft SQL Server (MSSQL)</td></tr>
+<tr><td>◈</td><td><b>Deployment</b></td><td>Plesk, hosting, application reliability</td></tr>
+</table>
+
+### 🔄 BUILD PIPELINE
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/01-PLAN-312E81?style=for-the-badge&labelColor=0D1117" alt="Plan">
 <img src="https://img.shields.io/badge/02-BUILD-4F46E5?style=for-the-badge&labelColor=0D1117" alt="Build">
-<img src="https://img.shields.io/badge/03-SHIP-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Ship">
-<img src="https://img.shields.io/badge/04-IMPROVE-A78BFA?style=for-the-badge&labelColor=0D1117" alt="Improve">
-</div>
+<img src="https://img.shields.io/badge/03-TEST-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Test">
+<img src="https://img.shields.io/badge/04-SHIP-A78BFA?style=for-the-badge&labelColor=0D1117" alt="Ship">
 
+</div>
 ## `$ connect` — Let's Build Something Useful
 
 <div align="center">
