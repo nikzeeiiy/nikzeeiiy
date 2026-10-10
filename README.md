@@ -1,10 +1,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090f,35:312e81,70:6d28d9,100:4338ca&text=NIKHIL%20P&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPMENT&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Nikhil P profile banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:09090F,35:312E81,70:6D28D9,100:4338CA&text=NIKHIL%20P&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPMENT&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Nikhil P profile banner">
 
 <a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+B.Tech+CSE+Graduate;Full+Stack+Development+%7C+REST+APIs;Applied+AI+%7C+Computer+Vision;Building+Practical+Software+Solutions" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+B.Tech+CSE+Graduate;Full+Stack+Development+%7C+REST+APIs;Applied+AI+%7C+Computer+Vision;Building+Practical+Software+Solutions" alt="Typing animation">
 </a>
 
 <br>
@@ -15,10 +15,10 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikzeeiiy)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikzeeiiy)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/EMAIL-Contact%20Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilprakash67@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-Explore%20Code-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikzeeiiy)
+[![Email](https://img.shields.io/badge/EMAIL-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilprakash67@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-Explore-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikzeeiiy)
 
 <br>
 
@@ -32,16 +32,16 @@
 
 ## `$ whoami` — About Me
 
-I'm a **Computer Science and Engineering graduate** focused on software development, full-stack engineering, backend integration, and practical applications of AI technologies.
+I'm a **Computer Science and Engineering graduate** focused on building practical software solutions through full-stack development, backend engineering, database management, and applied AI technologies.
 
-My project experience includes building web applications with React.js, Node.js, Express.js, and MySQL, implementing REST APIs and JWT authentication, and exploring computer vision for real-world use cases.
+My project experience includes developing web applications with React.js, Node.js, Express.js, and MySQL, implementing REST APIs and JWT authentication, and exploring computer vision for real-world use cases.
 
-I believe in building software that is maintainable, useful, secure by design, and focused on solving actual problems.
+I value clean implementation, maintainable architecture, reliable functionality, and user-focused problem solving.
 
 - **Software Engineering:** Object-oriented programming, data structures, algorithms, SDLC, and Agile fundamentals.
-- **Full Stack Development:** React.js, Node.js, Express.js, REST APIs, and database integration.
+- **Full Stack Development:** React.js, Node.js, Express.js, REST APIs, and relational databases.
 - **AI / ML Applications:** MediaPipe, OpenCV, TensorFlow Lite exposure, and computer vision projects.
-- **Product Engineering:** Feature development, debugging, API integration, and deployment workflows.
+- **Product Engineering:** Feature implementation, debugging, frontend-backend integration, and deployment workflows.
 - **Data & Analytics:** SQL, Microsoft Excel, data cleaning, PivotTables, charts, and lookup functions.
 - **Engineering Mindset:** Problem solving, collaboration, continuous learning, and AI-assisted development.
 
@@ -54,16 +54,21 @@ I believe in building software that is maintainable, useful, secure by design, a
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Python Java JavaScript HTML CSS">
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS"></a>
 </p>
 
 ![SQL](https://img.shields.io/badge/SQL-4F46E5?style=flat-square&logo=postgresql&logoColor=white)
-![ES6+](https://img.shields.io/badge/JavaScript_ES6%2B-6366F1?style=flat-square&logo=javascript&logoColor=white)
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="React HTML CSS">
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS"></a>
 </p>
 
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-6D28D9?style=flat-square)
@@ -72,17 +77,24 @@ I believe in building software that is maintainable, useful, secure by design, a
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,firebase&theme=dark" alt="Backend and database technologies">
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="42" alt="Express"></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL"></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL"></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="42" alt="MongoDB"></a>
+<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="42" alt="Firebase"></a>
 </p>
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT_Authentication-7C3AED?style=flat-square)
+![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-7C3AED?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-4F46E5?style=flat-square&logo=sqlite&logoColor=white)
 
 ### AI / ML & Computer Vision
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow&theme=dark" alt="Python OpenCV TensorFlow">
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"></a>
+<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="42" alt="OpenCV"></a>
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="42" alt="TensorFlow"></a>
 </p>
 
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-6366F1?style=flat-square)
@@ -92,11 +104,16 @@ I believe in building software that is maintainable, useful, secure by design, a
 ### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render&theme=dark" alt="Git GitHub VS Code Postman Vercel Render">
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="42" alt="VS Code"></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="42" alt="Postman"></a>
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Vercel"></a>
+<a href="https://render.com/"><img src="https://skillicons.dev/icons?i=render" width="42" alt="Render"></a>
 </p>
 
 ![Railway](https://img.shields.io/badge/Railway-312E81?style=flat-square&logo=railway&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-166534?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-166534?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile_Methodology-4F46E5?style=flat-square)
 ![SDLC](https://img.shields.io/badge/SDLC-6366F1?style=flat-square)
 
@@ -119,7 +136,7 @@ I believe in building software that is maintainable, useful, secure by design, a
 ## `$ featured-projects` — Selected Engineering Work
 
 <details>
-<summary><b>01. JobTracker — Full Stack Job Application Management System</b></summary>
+<summary><strong>01. JobTracker — Full Stack Job Application Management System</strong></summary>
 
 ### Overview
 
@@ -133,7 +150,7 @@ A full-stack web application designed to help users organize and track job appli
 | **Security** | JWT-based authentication implementation |
 | **Impact** | Centralized job records and application status tracking |
 | **Deployment** | Render, Vercel |
-| **Repository** | [View repositories](https://github.com/nikzeeiiy?tab=repositories) |
+| **Repository** | [Explore my GitHub repositories](https://github.com/nikzeeiiy?tab=repositories) |
 
 ### Engineering Highlights
 
@@ -150,7 +167,7 @@ A full-stack web application designed to help users organize and track job appli
 </details>
 
 <details>
-<summary><b>02. ISL Interpreter — Indian Sign Language Translation</b></summary>
+<summary><strong>02. ISL Interpreter — Indian Sign Language Translation</strong></summary>
 
 ### Overview
 
@@ -163,7 +180,7 @@ An academic project exploring bidirectional communication between speech and Ind
 | **Performance** | Real-time processing was a project objective; benchmark results not published |
 | **Security** | Formal security assessment not documented |
 | **Impact** | Explores technology-assisted communication accessibility |
-| **Repository** | [View repositories](https://github.com/nikzeeiiy?tab=repositories) |
+| **Repository** | [Explore my GitHub repositories](https://github.com/nikzeeiiy?tab=repositories) |
 
 ### Engineering Highlights
 
@@ -178,7 +195,7 @@ An academic project exploring bidirectional communication between speech and Ind
 </details>
 
 <details>
-<summary><b>03. Cattleshed Surveillance System — Automated Threat Detection</b></summary>
+<summary><strong>03. Cattleshed Surveillance System — Automated Threat Detection</strong></summary>
 
 ### Overview
 
@@ -191,7 +208,7 @@ An academic surveillance project designed to detect potential threats in cattle 
 | **Performance** | Real-time detection was a project objective; benchmark results not published |
 | **Security** | Formal security assessment not documented |
 | **Impact** | Aims to improve livestock monitoring and threat awareness |
-| **Repository** | [View repositories](https://github.com/nikzeeiiy?tab=repositories) |
+| **Repository** | [Explore my GitHub repositories](https://github.com/nikzeeiiy?tab=repositories) |
 
 ### Engineering Highlights
 
@@ -250,7 +267,7 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 ## `$ certifications` — Certifications & Continuous Learning
 
-*Add specific credentials here after earning them. The links below lead to official training providers, not to personal certificates.*
+*The following links lead to official training providers. Add individual certifications here when earned.*
 
 ### AWS
 
@@ -288,15 +305,15 @@ An academic surveillance project designed to detect potential threats in cattle 
 <div align="center">
 
 <a href="https://github.com/nikzeeiiy">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nikzeeiiy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&include_all_commits=true" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=nikzeeiiy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&include_all_commits=true" width="100%" alt="GitHub statistics">
 </a>
 
 <a href="https://github.com/nikzeeiiy">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikzeeiiy&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikzeeiiy&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" width="100%" alt="Most used programming languages">
 </a>
 
 <a href="https://github.com/nikzeeiiy">
-<img src="https://streak-stats.demolab.com?user=nikzeeiiy&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=9CA3AF" alt="GitHub contribution streak">
+<img src="https://streak-stats.demolab.com?user=nikzeeiiy&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=9CA3AF" width="100%" alt="GitHub contribution streak">
 </a>
 
 </div>
@@ -307,7 +324,9 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nikzeeiiy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/nikzeeiiy)
+<a href="https://github.com/nikzeeiiy">
+<img src="https://github-profile-trophy.vercel.app/?username=nikzeeiiy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub profile trophies">
+</a>
 
 </div>
 
@@ -317,7 +336,9 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikzeeiiy&bg_color=0D1117&color=A78BFA&line=6366F1&point=C4B5FD&area=true&hide_border=true)](https://github.com/nikzeeiiy)
+<a href="https://github.com/nikzeeiiy">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikzeeiiy&bg_color=0D1117&color=A78BFA&line=6366F1&point=C4B5FD&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph">
+</a>
 
 </div>
 
@@ -327,11 +348,9 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/nikzeeiiy/nikzeeiiy/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/nikzeeiiy/nikzeeiiy/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake">
 
 </div>
-
-The snake animation requires a GitHub Actions workflow to generate the SVG and publish it to the `output` branch. Until configured, this image may not appear.
 
 ---
 
@@ -405,7 +424,7 @@ open_to:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:4338CA,50:6D28D9,100:09090F" width="100%" alt="Purple gradient footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:4338CA,50:6D28D9,100:09090F" width="100%" alt="Purple gradient footer banner">
 
 <sub>Designed with Markdown · Powered by GitHub · Built for continuous growth</sub>
 
