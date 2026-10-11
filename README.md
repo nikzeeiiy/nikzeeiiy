@@ -20,7 +20,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=nikzeeiiy&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views">
+<a href="https://github.com/nikzeeiiy"><img src="https://img.shields.io/badge/PROFILE-VIEW_MY_PROFILE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View GitHub profile"></a>
 <a href="https://github.com/nikzeeiiy?tab=followers"><img src="https://img.shields.io/github/followers/nikzeeiiy?style=flat-square&color=6366F1&label=FOLLOWERS" alt="GitHub followers"></a>
 <a href="https://github.com/nikzeeiiy?tab=repositories"><img src="https://img.shields.io/github/stars/nikzeeiiy?style=flat-square&color=8B5CF6&label=TOTAL+STARS" alt="GitHub stars"></a>
 
@@ -267,7 +267,7 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 ---
 
-## `$ github-analytics` — GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/nikzeeiiy">
