@@ -16,6 +16,7 @@
 
 <a href="https://github.com/nikzeeiiy"><img src="https://img.shields.io/badge/GITHUB-Explore%20Code-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"></a>
 <a href="mailto:nikhilprakash67@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+<a href="https://nikz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/✦_PORTFOLIO-Explore_My_Work-EC4899?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Visit Nikhil portfolio"></a>
 
 <br><br>
 
@@ -41,6 +42,24 @@ My project experience includes building web applications with React.js, Node.js,
 - **Engineering Mindset:** Problem solving, collaboration, continuous learning, and AI-assisted development.
 
 **Currently:** Full Stack Developer at Microtech Software Solutions, working with React, Node.js, TypeScript, MSSQL, Antigravity, and Plesk.
+
+---
+
+## ✦ Explore My Portfolio
+
+<div align="center">
+
+<a href="https://nikz-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/OPEN_MY_PORTFOLIO-View_Projects_%26_Work-EC4899?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Open Nikhil's portfolio">
+</a>
+
+<br><br>
+
+**Projects · Skills · Experience · Developer Profile**
+
+<sub>Visit my personal portfolio to explore my work and projects.</sub>
+
+</div>
 
 ---
 
@@ -359,6 +378,7 @@ An academic surveillance project designed to detect potential threats in cattle 
 
 <br>
 
+<a href="https://nikz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_My_Website-EC4899?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Visit portfolio"></a>
 <a href="mailto:nikhilprakash67@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nikhil"></a>
 <a href="https://github.com/nikzeeiiy"><img src="https://img.shields.io/badge/GitHub-Explore_Projects-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
 
